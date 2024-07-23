@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a final-year engineering student at CY Tech and currently an apprentice at Société Générale. With a strong passion for data analysis and data manipulation, I am eager to leverage my skills in real-world applications.<br><br>🔍 Career Goals: I am actively seeking opportunities as a Data Engineer, Data Analyst, or Back-End Python Developer.
+👋 Hi there! I'm a final-year engineering student at CY Tech and currently an apprentice at Société Générale. With a strong passion for data analysis and data manipulation, I am eager to leverage my skills in real-world applications.
 
 
 ## 🌐 Socials:
